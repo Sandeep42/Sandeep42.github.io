@@ -4,6 +4,7 @@ theme = "poison"
 title = 'Sandeep Tammu blog'
 paginate = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
+disqusShortname = "sandeep42-github-io-1"
 
 [params]
     brand = "Sandeep Tammu"                      # name of your site - appears in the sidebar
@@ -27,7 +28,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     # Links to your socials.  Delete any you don't need/use. 
     github_url = "https://github.com/sandeep42"
     #gitlab_url = "https://gitlab.com"
-    linkedin_url = "www.linkedin.com/in/sandeeptammu"
+    linkedin_url = "https://linkedin.com/in/sandeeptammu"
     #twitter_url = "https://twitter.com"
     #mastodon_url = "https://mastodon.social"
     #tryhackme_url = "https://tryhackme.com"
