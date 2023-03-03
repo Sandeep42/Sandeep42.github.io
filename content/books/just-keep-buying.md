@@ -1,7 +1,7 @@
 ---
 title: "Just Keep Buying: Nick Maggiulli"
 date: 2022-02-18
-draft: true
+draft: false
 series: "books"
 tags: ["book-reviews", "finance"]
 ---
