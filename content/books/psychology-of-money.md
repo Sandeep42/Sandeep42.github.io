@@ -1,5 +1,5 @@
 ---
-title: "The Psychology of Money: Morgan Housel"
+title: "The Psychology of Money"
 date: 2022-02-18
 draft: false
 series: "books"
