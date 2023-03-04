@@ -1,7 +1,7 @@
 ---
 title: "Dopamine Nation"
 date: 2022-03-04
-draft: true
+draft: false
 series: "books"
 tags: ["book-reviews", "health"]
 ---
