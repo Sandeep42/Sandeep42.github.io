@@ -1,5 +1,5 @@
 ---
-title: "The Simple Path to Wealth: JL Collins"
+title: "The Simple Path to Wealth"
 date: 2022-02-18
 draft: false
 series: "books"
