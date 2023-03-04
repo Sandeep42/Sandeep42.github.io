@@ -1,13 +1,13 @@
 baseURL = "https://sandeep42.github.io/"
 languageCode = "en-us"
 theme = "poison"
-title = 'Sandeep Tammu blog'
+title = 'Sandeep blog'
 paginate = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 disqusShortname = "sandeep42-github-io-1"
 
 [params]
-    brand = "Sandeep Tammu"                      # name of your site - appears in the sidebar
+    brand = "Sandeep"                      # name of your site - appears in the sidebar
     # brand_image = "/images/test.jpg"    # path to the image shown in the sidebar
     description = "Blog..."
     dark_mode = true                      # optional - defaults to false
