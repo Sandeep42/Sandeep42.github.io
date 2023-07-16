@@ -3,7 +3,7 @@ title: "Collapse: How Societies Choose to Fail or Succeed"
 date: 2023-07-16
 draft: false
 series: "books"
-tags: ["book-reviews""]
+tags: ["book-reviews"]
 ---
 
 In Collapse, Jared Diamond chooses to describe a few ancient societies who flourished in their times but failed to prosper because of the environmental damage and overpopulation. Last month, we've surpassed all the existing records of atmospheric carbon-dioxide, hitting a reading of 415 ppm. As we are approaching Anthropocene and failing to mitigate our emissions, it is a worthwhile idea to draw parallels between our modern societies and the ancient civilisations which have failed.
